@@ -1,0 +1,16 @@
+# Core libraries
+numpy>=1.21.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+matplotlib>=3.7.0
+
+# Computer vision & pose detection
+opencv-python>=4.7.0
+mediapipe>=0.10.0
+deepface>=0.0.89
+
+# Web & dashboard
+flask>=2.3.0
+dash>=2.10.0
+plotly>=5.16.0
+
